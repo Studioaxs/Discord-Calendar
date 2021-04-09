@@ -156,4 +156,4 @@ async def before():
     print("Finished waiting")
 
 display_day_TT.start()
-bot.run('EKsynw2HlP7qBlU0bmviEYmerTSYqoQN') # Put your discord bot token here
+bot.run('') # Put your discord bot token here
